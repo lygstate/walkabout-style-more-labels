@@ -406,7 +406,7 @@ sources:
     mapzen:
         type: TopoJSON
         # prod
-        url: https://vector.mapzen.com/osm/all/{z}/{x}/{y}.topojson?api_key=vector-tiles-TMwazSG
+        url: https://vector.mapzen.com/osm/all/{z}/{x}/{y}.topojson
         # earlier prod version
         #url: https://vector.mapzen.com/osm/v0.9/all/{z}/{x}/{y}.topojson?api_key=vector-tiles-JUsa0Gc
         # dev
